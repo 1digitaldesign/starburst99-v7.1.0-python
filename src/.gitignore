@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+**/venv/
+
+# Coverage files
+.coverage
+*.coverage
+htmlcov/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
